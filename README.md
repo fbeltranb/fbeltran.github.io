@@ -13,20 +13,22 @@ Contact Information: fbeltran@bcentral.cl
 
 
 ## Research
-### Working papers
-"Good News Travels Fast: Global Demand Shocks, Oil Futures, and Emerging Markets Dynamics" Coauthored with David Coble, Manuel Escobar and Felipe Rojas. 
-### Publications (peer-reviewed)
-1. "Global Monetary Policy Surprises and their transmission to Emerging Market Economies: An external VAR analysis". Emerging Markets Review. Volume 68,, September 2025. [Link to paper]
-2. "Monetary Policy Surprises on the Banking Sector: the Role of the Information and Pure Monetary Shocks" Coauthored with David Coble. Latin American Journal of Central Banking. Volume 5, Issue 3, September 2024. [Link to paper]
-3. "A preliminary assessment of the economic effects of energy and climate in Chile" with Luigi Durand, Mario González-Frugone, Javier Moreno . Latin American Journal of Central Banking. Volume, August 2024. [Link to paper]
-### Policy contributions and notes
-1. "Analytical Considerations for the Implementation Framework of the Countercyclical Capital Buffer Requirement".  (In Spanish). Financial Stability Report April 2025, Central Bank of Chile. [Link to paper]
-2. "Use of Macroeconomic Models in the Central Bank of Chile". (In Spanish). December 2020, Central Bank of Chile. [Link to paper]
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### Working papers
+
+- "Good News Travels Fast: Global Demand Shocks, Oil Futures, and Emerging Markets Dynamics" Coauthored with David Coble, Manuel Escobar and Felipe Rojas. [Link to paper](https://www.imf.org/en/publications/wp/issues/2025/12/05/good-news-travels-fast-global-demand-shocks-oil-futures-and-emerging-markets-dynamics-572363)
+- 
+### Publications (peer-reviewed)
+
+- "Global Monetary Policy Surprises and their transmission to Emerging Market Economies: An external VAR analysis". Emerging Markets Review. Volume 68,, September 2025. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1566014125000822)
+- "Monetary Policy Surprises on the Banking Sector: the Role of the Information and Pure Monetary Shocks" Coauthored with David Coble. Latin American Journal of Central Banking. Volume 5, Issue 3, September 2024. [Link to paper](https://www.sciencedirect.com/science/article/pii/S2666143824000097?ref=cra_js_challenge&fr=RR-1)
+- "A preliminary assessment of the economic effects of energy and climate in Chile" with Luigi Durand, Mario González-Frugone, Javier Moreno . Latin American Journal of Central Banking. Volume, August 2024. [Link to paper](https://www.sciencedirect.com/science/article/pii/S2666143824000280)
+  
+### Policy contributions and notes
+
+- "Analytical Considerations for the Implementation Framework of the Countercyclical Capital Buffer Requirement".  (In Spanish). Financial Stability Report April 2025, Central Bank of Chile. [Link to paper](https://www.bcentral.cl/documents/d/banco-central/documento-tecnico-consideraciones-analiticas-rcc)
+- "Use of Macroeconomic Models in the Central Bank of Chile". (In Spanish). December 2020, Central Bank of Chile. [Link to paper](https://www.bcentral.cl/web/banco-central/contenido/-/details/uso-de-modelos-macroeconomicos-en-el-banco-central-de-chile)
+
 
 
 ## Talks & Lectures
