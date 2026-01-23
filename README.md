@@ -6,7 +6,7 @@ Contact Information: fbeltran@bcentral.cl
 
 [Linkedin profile](https://www.linkedin.com/in/felipe-beltr%C3%A1n-bravo-80227b16a/?originalSubdomain=cl)
 
-### Technical Skills: Matlab, Stata, R, Julia, Eviews, Bloomberg, Reuters
+### Technical Skills: Matlab, Stata, R, Julia, Eviews, Bloomberg, Reuters.
 
 
 
@@ -33,7 +33,6 @@ Contact Information: fbeltran@bcentral.cl
 
 - "Analytical Considerations for the Implementation Framework of the Countercyclical Capital Buffer Requirement".  (In Spanish). Financial Stability Report April 2025, Central Bank of Chile. [Link to paper](https://www.bcentral.cl/documents/d/banco-central/documento-tecnico-consideraciones-analiticas-rcc)  
 - "Use of Macroeconomic Models in the Central Bank of Chile". (In Spanish). December 2020, Central Bank of Chile. [Link to paper](https://www.bcentral.cl/web/banco-central/contenido/-/details/uso-de-modelos-macroeconomicos-en-el-banco-central-de-chile)
-
 
 
 #### Referee Service
