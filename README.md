@@ -9,7 +9,6 @@ Contact Information: fbeltran@bcentral.cl
 ### Technical Skills: Matlab, Stata, R, Julia, Eviews, Bloomberg, Reuters.
 
 
-
 ## Research
 
 ### Working papers
