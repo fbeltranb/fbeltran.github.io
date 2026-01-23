@@ -6,9 +6,9 @@ Contact Information: fbeltran@bcentral.cl
 
 [Linkedin profile](https://www.linkedin.com/in/felipe-beltr%C3%A1n-bravo-80227b16a/?originalSubdomain=cl)
 
-## Technical Skills: MATLAB, Stata, R, Julia, Eviews, Bloomberg, Reuters
+### Technical Skills: Matlab, Stata, R, Julia, Eviews, Bloomberg, Reuters
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
 
 ## Research
 
