@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mi sitio
+---
+
 <head> 
   <meta name="google-site-verification" content="8Gfg4gpEDo_q05ciVWiR6a7P9Vd7UB7WiI3VyTgy3zc" />
 </head>
