@@ -1,5 +1,3 @@
-
-
 I am an Economist at the Financial Policy Division of the Central Bank of Chile. Prior to joining the Central Bank of Chile, I worked at the Inter-American Development Bank (IDB), the Ministry of Economy of Chile and the Department of Economics at the University of Chile. My research field is macroeconomics, with interests in applied Macroeconomics and International Economics.
 
 I obtained my Ph.D at the Economics Department of the University of Chile.
